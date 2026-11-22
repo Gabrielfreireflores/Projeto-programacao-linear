@@ -1,0 +1,6 @@
+*.lic
+__pycache__/
+*.py[cod]
+.venv/
+*.aux
+*.log
