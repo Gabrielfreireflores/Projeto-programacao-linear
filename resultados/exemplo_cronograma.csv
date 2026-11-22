@@ -1,0 +1,5 @@
+tarefa,inicio_m1,fim_m1,inicio_m2,fim_m2,inicio_m3,fim_m3
+D,0,1,1,4,4,6
+A,1,4,4,6,6,10
+C,4,8,8,9,10,15
+B,8,10,10,15,15,18
